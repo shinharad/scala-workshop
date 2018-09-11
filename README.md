@@ -1,3 +1,3 @@
-# scala-workshop
+# scala-lecture
 
-for in-house training workshop.
+for in-house training.
