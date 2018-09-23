@@ -1,3 +1,3 @@
-# scala-lecture
+# scala-tutorial
 
 for in-house training.
